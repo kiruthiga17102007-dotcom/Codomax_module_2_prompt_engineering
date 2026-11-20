@@ -1,0 +1,11 @@
+Experiment,Prompt_Type,Expected_Purpose,Observation
+1,Zero-shot,Sentiment classification,Tested direct instructions without examples
+2,Few-shot,Sentiment classification,Tested prompts with examples
+3,Role-based,AI acting as a tutor,Tested role-based instructions
+4,Context-based,Providing relevant context,Observed how context guides responses
+5,Constraint-based,Generating short responses,Tested word and response limits
+6,Structured Output,JSON formatting,Practiced structured data generation
+7,Summarization,Shortening text,Practiced summarization techniques
+8,Classification,Grouping text,Practiced classification logic
+9,AI-assisted Coding,Debugging Python code,Corrected a coding error
+10,Reusable Templates,Creating prompt templates,Created reusable Python functions
